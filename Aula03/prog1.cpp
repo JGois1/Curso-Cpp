@@ -1,6 +1,23 @@
 #include<stdio.h>
 /*
+Exercicio com if:
+Estruturas condicionais representam um fluxo alternativo na execução do programa.
+Desvio condicional simples
+1C - 1R
+Ex: 
+	Aceita -> bloco do if  N Aceita -> pular o bloco do if
+	if(condição){
+		bloco do if
+	}
 
+Escreva um programa que leia o preço
+e a quantidade de um produto.
+A) O programa devera calcular o total a
+pagar.
+B) Calcular um desconto de 10% se o total
+for maior que 1000.
+C) Imprimir o total encontrado.
+Obs: total = preço * quantidade
 */
 float price;
 int quantidade;
