@@ -1,5 +1,21 @@
 #include<stdio.h>
+/*
 
+Desvio condicional escalonado
+1C - NR+2 =  5 - 2 = 3 : 3 - 2 = 1;
+
+Ex:
+	if() ..
+	
+	else if() ...
+	
+	else() ...
+	
+
+Escreva um programa que leia um numero.
+A) Verificar se o numero é maior, menor ou igual a 10.
+
+*/
 int numero;
 
 int main(){
